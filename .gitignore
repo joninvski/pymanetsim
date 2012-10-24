@@ -1,0 +1,8 @@
+*.pyc
+.coverage
+test_map.txt
+profile
+TAGS
+*.png
+build
+results/**/*.txt
